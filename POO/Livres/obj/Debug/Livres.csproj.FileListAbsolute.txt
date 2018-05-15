@@ -1,0 +1,7 @@
+C:\Users\Nabzik\Google Drive\wamp\=Programmation=\C#\POO\Livres\obj\Debug\Livres.csprojAssemblyReference.cache
+C:\Users\Nabzik\Google Drive\wamp\=Programmation=\C#\POO\Livres\obj\Debug\Livres.csproj.CoreCompileInputs.cache
+C:\Users\Nabzik\Google Drive\wamp\=Programmation=\C#\POO\Livres\bin\Debug\Livres.exe.config
+C:\Users\Nabzik\Google Drive\wamp\=Programmation=\C#\POO\Livres\bin\Debug\Livres.exe
+C:\Users\Nabzik\Google Drive\wamp\=Programmation=\C#\POO\Livres\bin\Debug\Livres.pdb
+C:\Users\Nabzik\Google Drive\wamp\=Programmation=\C#\POO\Livres\obj\Debug\Livres.exe
+C:\Users\Nabzik\Google Drive\wamp\=Programmation=\C#\POO\Livres\obj\Debug\Livres.pdb
